@@ -1,14 +1,14 @@
 class Dog 
   
-  def fido
+  def (fido)
     @fido = fido
   end
   
-   def snoopy
+   def (snoopy)
     @snoopy = snoopy
   end
   
-   def lassie
+   def (lassie)
     @lassie = lassie
   end
   
