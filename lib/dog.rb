@@ -1,6 +1,6 @@
 class Dog 
   
-  def inifido
+  def fido
     @fido
   end
   
