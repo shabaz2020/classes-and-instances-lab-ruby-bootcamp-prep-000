@@ -1,7 +1,9 @@
 class Dog 
   
-  def (fido, snoopy, lassie)
+  def fido
   
   end
+  
+  
   
 end
